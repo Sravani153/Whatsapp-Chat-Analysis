@@ -1,0 +1,3 @@
+# Whatsapp-Chat-Analysis
+<p>WhatsApp chat Analyzer is a statistical analysis tool for WhatsApp chats. Working on the chat files that can be exported from WhatsApp it generates various plots showing. For example, number of messages or emojis or images sent by a person, most active member in the group etc. We propose to employ dataset manipulation techniques to have a better understanding of WhatsApp chat present in our phones. This tool is based on data analysis and processing. The first step in   implementing a machine learning algorithm is to understand the right
+  learning experience from which the model starts improving on. Data pre-processing plays a major role when it comes to machine learning.</p> 
